@@ -27,17 +27,6 @@ Opção 2 — VS Code (Live Server)
 - Instale a extensão Live Server
 - Clique em  Go Live dentro do index.html
 
-Opção 3 — Servir localmente (recomendado)
-- Usando Python (Windows):
-`ash
-py -m http.server 5500
-`
-- Usando Python (Linux/macOS):
-`ash
-python3 -m http.server 5500
-`
-Depois acesse: http://localhost:5500
-
 ## Estrutura
 - index.html: marcação e import do CSS/JS
 - styles.css: estilos e layout responsivo (CSS Grid)
