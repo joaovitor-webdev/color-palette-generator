@@ -39,3 +39,4 @@ Este projeto não possui package.json nem scripts de npm/yarn; é um app estáti
 - Nome: João Vitor - Web Dev
 - GitHub: https://github.com/joaovitor-webdev
 - Portfólio: https://joaovitor-webdev.netlify.app
+- Inspiração: @burakorkmez
